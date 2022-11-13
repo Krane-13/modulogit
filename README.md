@@ -1,4 +1,4 @@
-Meu Primeiro Sistema em GIT (alterado e atualizado!)
+Meu Primeiro Sistema em GIT
 
 Alteração no readme para descrever melhor meu sistema
 FEITO NO MASTER
